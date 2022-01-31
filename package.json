@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/hatuanem199801/express-vercel#readme",
   "dependencies": {
+    "axios": "^0.25.0",
     "express": "^4.17.1"
   }
 }
